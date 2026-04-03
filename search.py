@@ -100,3 +100,4 @@ db.persist()
 
 elapsed = time.time() - start_time
 print(f"\n✅ ドキュメントのベクトル化と保存が完了しました！⏱ {elapsed:.2f} 秒")
+
